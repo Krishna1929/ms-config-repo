@@ -1,0 +1,4 @@
+Vch_Ref_No,Comp_Code,Unit_Code,Vch_Ref_Dt,MainGl_Code,SubGl_Code,Debit_Amt,Crdit_Amt,Vch_Remarks,Cost_Code,Asset_Code,Asset_Cat,Asset_SubCat,Deprn_Perc,Deprn_Tax_Perc,JV_Rvsl_Dt
+REF-0219,56,100,04-Oct-21,901545,SL0005,4500,,DR,,,,,,,
+REF-0219,56,100,04-Oct-21,901545,SL0005,500,,DR,,,,,,,
+REF-0219,56,100,04-Oct-21,901545,SL0005,,5000,CR,,,,,,,
